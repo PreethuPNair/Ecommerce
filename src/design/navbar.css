@@ -1,0 +1,97 @@
+#nav-container-id{
+    display: flex;
+}
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 10px;
+    margin-top: 10px;
+    width: 100%;
+  }
+  
+  .nav-name {
+    font-size: 24px;
+    font-weight: 300;
+    color: black;
+    width: 71px;
+    height: 28px;
+    margin: 2px 0px 13px 0;
+    margin-left:20px;
+  }
+  
+  .nav-pro, .nav-room {
+    margin: 0 10px;
+  }
+  #nav-pro-id{
+    font-weight: 300;
+
+  }
+  
+  .nav-pro select, .nav-room select {
+    font-size: 16px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: none;
+    background-color: #ffff;
+    padding: 7px;
+    border-radius: 6px;
+   font-style: normal;
+   line-height: 150%;
+  }
+  .nav-pro select{
+    color: #E89F71;
+  }
+  .nav-room select{
+    color: rgb(63, 63, 63);
+
+  }
+  
+  .nav-contact, .nav-fav, .nav-cart {
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    cursor: pointer;
+    margin: 0 18px;
+    font-weight: 300;
+    color: rgb(63, 63, 63);
+  }
+ 
+  .nav-search input[type="text"] {
+    font-size: 15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: none;
+    background-color: #f2f2f2;
+    padding: 6px;
+    border-radius: 4px;
+    width: 450px;
+    padding-left: 35px;
+  }
+  
+  .nav-img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #f2f2f2;
+    margin-right: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+      
+  }
+  .nav-search-sub-icon{
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 10px;
+  }
+  .nav-fav{
+    margin-left: 100px;
+  }
+  .nav-cart{
+    margin-right: 25px;
+  }
+  .nav-img {
+    background-image: url("../assets/pic1.jpg");
+    background-size: cover;
+    
+  }
+  

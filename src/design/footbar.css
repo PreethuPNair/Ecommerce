@@ -1,0 +1,177 @@
+.containerfoot {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.f-section,
+.s-section,
+.t-section,
+.fo-section,
+.fi-section {
+    width: 13%;
+    margin-left: 55px;
+}
+
+.s-section {
+    padding-left: 20px;
+}
+
+.f-section3 {
+    margin-top: -22.7px;
+    margin-left: 27px;
+}
+
+.f-section5 {
+    margin-top: -22.7px;
+    margin-left: 27px;
+}
+
+.f-section {
+    width: 21%;
+}
+
+.f-section1 {
+    font-size: 24px;
+    margin-bottom: 12px;
+    font-weight: 325;
+}
+
+.f-section2,
+.f-section4 {
+    font-size: 18px;
+}
+
+
+.s-section,
+.t-section {
+    margin-left: 50px;
+}
+
+.t-section {
+    margin-left: 35px;
+
+}
+
+.s-section1 {
+    font-size: 24px;
+    margin-bottom: 12px;
+    font-weight: 325;
+
+}
+
+.fi-section {
+    margin-left: 60px;
+
+}
+
+.t-section1 {
+    font-size: 24px;
+    margin-bottom: 12px;
+    font-weight: 325;
+
+}
+
+.fi-section2 input {
+    width: 96%;
+    margin-right: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 2px;
+    font-size: 16px;
+    background-color: rgb(226, 220, 220);
+}
+
+
+.fo-section1,
+.fi-section1 {
+    font-size: 24px;
+    margin-bottom: 12px;
+    font-weight: 325;
+
+}
+
+.f-section7 {
+    font-size: 15px;
+}
+
+.fo-section {
+    margin-left: 25px;
+}
+
+.f-section7,
+.f-section2,
+.f-section3,
+.f-section4,
+.f-section5,
+.f-section6 {
+    font-size: 16px;
+
+}
+
+.f-section2,
+.f-section4 {
+    margin-top: 15px;
+}
+
+.f-section5 {
+    margin-bottom: 11px;
+}
+
+.s-section2,
+.s-section3,
+.s-section4,
+.s-section5 {
+    margin-bottom: 11px;
+
+}
+
+.t-section2,
+.t-section3,
+.t-section4 {
+    margin-bottom: 11px;
+
+}
+
+.fo-section2,
+.fo-section3 {
+    margin-bottom: 11px;
+
+}
+
+.s-section2,
+.s-section3,
+.s-section4,
+.s-section5,
+.s-section6 {
+
+    color: #888484;
+
+}
+
+.t-section2,
+.t-section3,
+.t-section4,
+.t-section5 {
+    color: #888484;
+
+
+}
+
+.fo-section2,
+.fo-section3,
+.fo-section4 {
+    color: #888484;
+
+}
+
+.fi-section3 {
+    height: 38.5px;
+    width: 37px;
+    background-color: #E89F71;
+    margin-top: -39px;
+    margin-left: 180.5px;
+    border-radius: 2px;
+    padding-left: 2px;
+}

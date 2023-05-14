@@ -1,0 +1,228 @@
+.cart1,.wrap{
+    display: flex;
+}
+.cart1{
+    margin-left: -10px;
+}
+
+.shopping-car-items-img{
+    background-image: url('../assets/pic2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 140px;
+    width: 150px;
+    border-radius: 7px;
+}
+.shopping-cart-heading{
+    margin-bottom: 22px;
+    font-size: 20px;
+    font-weight: 500;
+    /* margin-left: -90px; */
+}
+.shopping-car-items-details{
+    margin-left: 22px;
+}
+.shopping-car-items-name{
+    font-weight: 700;
+    margin-bottom: 2px;
+
+}
+.shopping-car-items-description{
+    font-size: 11px;
+    color:#898989 ;
+    margin-bottom: 6px;
+
+}
+.shopping-car-items-price{
+    font-weight: 700;
+    margin-bottom: 50px;
+
+}
+.shopping-car-items-stock{
+    font-size: 10px;
+    color:#898989 ;
+    margin-left: 20px;
+
+}
+.wrap{
+    margin-bottom: 25px;
+}
+.shopping-cart-select{
+    position: absolute;
+    border: 1px solid  rgb(151, 146, 146);
+    border-radius: 3px;
+    height: 30px;
+    width: 50px;
+    margin-left: 360px;
+    margin-top: -120px;
+
+}
+.shopping-cart-select select{
+  font-size: 10px;
+  padding-left: 2px;
+  margin:1px 1px 1px 4px;
+}
+.star{
+    position:absolute;
+    margin-left: 460px;
+    margin-top: -115px;
+}
+.order-summary{
+margin-left: 400px;
+margin-top: 80px;
+}
+.order-summary-heading{
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+.order-summary-subtotal,.order-summary-shipping,.order-summary-tax{
+    font-size: 14px;
+    color:#a19b9b;
+    margin-bottom: 9px;
+}
+.line6{
+    /* margin-top: -5px; */
+    height: .8px;
+    width: 220px;
+    background-color: rgb(202, 195, 195);
+    margin-bottom: 9px;
+
+}
+.order-summary-ordertotal{
+    font-weight:640;
+    margin-bottom: 16px;
+}
+.order-summary-button{
+    width: 220px;
+    height: 42px;
+    background-color:  #E89F71;
+}
+.order-summary-button button{
+color: white;
+font-weight: 500;
+padding-left: 82px;
+padding-top: 13px;
+}
+.a,.b,.c,.d{
+    position: absolute;
+    margin-top: -30px;
+    margin-left: 190px;
+}
+.cart-main{
+    margin-left: 230px;
+    margin-top: 25px;
+}
+.shopping-car-items{
+    margin-left: -120px;
+}
+.wrap{
+    margin-left: 20px;
+}
+.order-summary{
+    margin-left: 520px;
+}
+.shopping-cart-heading{
+    margin-left: -39px;
+}
+/* ///////////// */
+
+
+.cart2-img-list-image{
+    background-image: url('../assets/pic3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 190px;
+    width: 237px;
+    border-radius: 7px;
+   
+}
+.cart2-img-list-color1{
+    height:15px;
+    width: 15px;
+    background-color: #E89F71;
+    border-radius: 50%;
+}
+.cart2-img-list-color{
+    display: flex;
+}
+.cart2-img{
+    display: flex;
+    margin-left: -15px;
+}
+.line4{
+    height: .8px;
+    width: 920px;
+    background-color: rgb(204, 199, 199);
+    margin-bottom: 20px;
+
+}
+.cart2{
+    margin-left: -114px;
+}
+.cart2-main-heading{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 18px;
+}
+.cart2-absolute{
+    margin-left: 930px;
+    margin-top: -25px;
+    position: absolute;
+    cursor: pointer;
+}
+.cart2-main-absolute-icon{
+    margin-left: 985px;
+    margin-top: -22px;
+    position: absolute;
+    cursor: pointer;
+
+}
+.cart2-img-list{
+    width:237px ;
+    height: 350px;
+    background-color: #f5f5f1;
+    margin-left: 20px;
+    border-radius: 2px;
+}
+.cart2-img-list-detail{
+    margin-left: 100px;
+    font-size: 16px;
+    color: #64748B;
+margin-top: 14px;
+
+}
+.cart2-img-list-sofa{
+    margin-left: 100px;
+    font-weight: 700;
+margin-top: 9px;
+font-size: 20px;
+
+}
+
+.cart2-img-list-price{
+    margin-left: 102px;
+    margin-top: 9px;
+    color: #64748B;
+
+}
+.cart2-img-list-color{
+    margin-top: 27px;
+    margin-left: 78px;
+
+
+}
+.cart2-img-list-color1{
+    margin-left: 4px;
+    cursor: pointer;
+
+}
+.line5{
+    height: .8px;
+    width: 1045px;
+    background-color: rgb(204, 199, 199);
+    margin-top: 40px;
+
+}
+.cart2-img-list-detail,.cart2-img-list-sofa,.cart2-img-list-price{
+    margin-left: 90px;
+}
